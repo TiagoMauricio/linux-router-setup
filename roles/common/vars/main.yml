@@ -1,0 +1,6 @@
+---
+supported_distros:
+  - "Ubuntu"
+
+supported_major_versions:
+  ubuntu: 18
